@@ -5,7 +5,7 @@ With its integrated charging capabilities, it can serve as a charging dock for y
 
 Here is a little video of Playbot (click to watch)
 
-[![Playbot_Trailer](images/Video.jpg)](https://www.youtube.com/watch?v=Kvui_DgAdv0&ab)
+[![Playbot_Trailer](images/Video.jpg)](https://youtu.be/pZ3aDawW1vo?si=pN9pur77LKVZNdHx)
 
 ⚡ Battery life: ~45 min of autonomous operation per charge.
 
